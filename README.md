@@ -28,7 +28,8 @@ The dataset includes sales transactions covering product categories, profit, qua
 - Discounts have a varying impact on profit across product sub-categories
 
 ## 📷 Dashboard Preview
-(https://tinyurl.com/5n943nj8)
+(![Sales Dashboard](dashboard.png))
+
 
 ## 🎯 Conclusion
 This dashboard provides a clear overview of sales performance, helping stakeholders identify high-performing categories, monitor trends, and make informed business decisions.

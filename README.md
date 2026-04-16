@@ -28,7 +28,7 @@ The dataset includes sales transactions covering product categories, profit, qua
 - Discounts have a varying impact on profit across product sub-categories
 
 ## 📷 Dashboard Preview
-(![Sales Dashboard](dashboard.png))
+(![Sales Dashboard](dashboard.PNG))
 
 
 ## 🎯 Conclusion
